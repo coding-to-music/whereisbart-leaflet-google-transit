@@ -10,6 +10,12 @@ From / By https://github.com/brendannee/whereisbart.com
 
 http://whereisbart.com
 
+Uses BART Legacy API and Generic Legacy API key
+
+https://api.bart.gov/api
+
+https://www.bart.gov/about/developers
+
 ## Environment variables:
 
 ```java
