@@ -1,3 +1,32 @@
+# whereisbart-leaflet-google-transit
+
+# 🚀 Visualization showing realtime locations of BART trains 🚀
+
+
+https://github.com/coding-to-music/whereisbart-leaflet-google-transit
+
+From / By https://github.com/brendannee/whereisbart.com
+
+http://whereisbart.com
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/whereisbart-leaflet-google-transit.git
+git push -u origin main
+```
+
 # WhereisBART.com
 
 Whereisbart.com is a live visualization of the estimated positions of all BART ([Bay Area Rapid Transit](https://bart.gov)) trains.

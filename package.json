@@ -1,0 +1,12 @@
+{
+  "name": "Visualization showing realtime locations of BART trains",
+  "version": "1.0.0",
+  "description": "# 🚀 Visualization showing realtime locations of BART trains 🚀",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
