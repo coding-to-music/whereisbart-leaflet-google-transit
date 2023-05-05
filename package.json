@@ -1,5 +1,5 @@
 {
-  "name": "Visualization showing realtime locations of BART trains",
+  "name": "whereisbart-leaflet-google-transit",
   "version": "1.0.0",
   "description": "# 🚀 Visualization showing realtime locations of BART trains 🚀",
   "main": "index.js",
